@@ -1,0 +1,7 @@
+[package]
+name = "email-checker"
+version = "0.1.0"
+authors = ["Julien Blanchard <julien@sideburns.eu>"]
+
+[dependencies]
+regex = "0.1.41"
